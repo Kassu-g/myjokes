@@ -1,4 +1,3 @@
-// src/hooks/useJokes.ts
 import { useState } from 'react';
 
 export interface IJoke {
